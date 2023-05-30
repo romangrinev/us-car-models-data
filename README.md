@@ -1,20 +1,12 @@
-***
+## US CAR MODELS DATA (1992 - 2023)
 
-## US CAR MODELS DATA (1992 - 2022)
+This open-source dataset provides detailed information on over 10,000 car models manufactured in the United States between 1992 and 2022. The data is presented in csv format and includes year, make, model, and body style for each car.
 
-***
+This dataset is the most comprehensive and up-to-date source of information on US car models available online. It is an essential resource for researchers, car enthusiasts, and anyone looking to learn more about the American automotive industry.
 
- - Year, Make, Model and Body style data of nearly all cars manufactured
-   between 1992 and 2022 in csv format.
-   
-   
- - This is the most comprehensive open-source dataset for cars available
-   on online.
+With over two decades of data, this dataset offers a unique perspective on the evolution of car design and technology in the United States. Whether you're interested in the latest electric vehicles, classic muscle cars, or anything in between, this dataset has you covered.
 
-   
-   
-
- - Contains data of approximately 10K car models.
+Download the US CAR MODELS DATA (1992 - 2023) today and start exploring the fascinating world of American cars!
 
 ### Import the dataset to your database:
 
@@ -30,3 +22,18 @@
  
  - [mongoDB](https://docs.mongodb.com/manual/reference/program/mongoimport/)
 
+## Join the Open Data Movement: Support Open Source Datasets
+
+Dear users,
+
+We are happy to announce that our open source dataset for cars has been maintained for the last 4 years and continues to provide valuable information for users. If you have found this dataset useful, we would greatly appreciate your support through a donation.
+
+Donations will be used to maintain and improve the dataset, and to continue providing it as a free resource for users. Donators will also be recognized as sponsors in the project's readme file.
+
+We have the following sponsorship levels:
+
+ - Silver sponsor - $100+ 
+ - Gold sponsor - $500+ 
+ - Diamond sponsor - $1000+
+
+Please follow this link to make a donation: [Donate](https://github.com/sponsors/abhionlyone?o=esc). Thank you for your support!

@@ -124,7 +124,7 @@ year,make,model,body_styles
 2016,Ford,Escape,"[""SUV""]"
 2016,Ford,Expedition,"[""SUV""]"
 2016,Ford,Expedition EL,"[""SUV""]"
-2016,Ford,Explorer,"[""SUV""]"
+2016,Ford,Explorer,"[""SUV"",""Pickup""]"
 2016,Ford,F150,"[""Pickup""]"
 2016,Ford,F250,"[""Pickup""]"
 2016,Ford,F350,"[""Pickup""]"

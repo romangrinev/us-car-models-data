@@ -90,7 +90,7 @@ year,make,model,body_styles
 2011,Ford,Escape,"[""SUV""]"
 2011,Ford,Expedition,"[""SUV""]"
 2011,Ford,Expedition EL,"[""SUV""]"
-2011,Ford,Explorer,"[""SUV""]"
+2011,Ford,Explorer,"[""SUV"",""Pickup""]"
 2011,Ford,F150,"[""Pickup""]"
 2011,Ford,F250,"[""Pickup""]"
 2011,Ford,F350,"[""Pickup""]"

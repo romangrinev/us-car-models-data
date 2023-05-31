@@ -39,7 +39,7 @@ year,make,model,body_styles,sub_models
 2014,BMW,7 Series,"[""Sedan""]"
 2014,BMW,i3,"[""Hatchback""]"
 2014,BMW,i8,"[""Coupe""]"
-2014,BMW,M5,"[""Sedan""]"
+2014,BMW,M5,"[""Sedan""]","[""M550"]"
 2014,BMW,M6,"[""Coupe"", ""Convertible""]"
 2014,BMW,X1,"[""SUV""]"
 2014,BMW,X3,"[""SUV""]"

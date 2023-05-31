@@ -45,7 +45,7 @@ year,make,model,body_styles,sub_models
 2019,BMW,i8,"[""Convertible"", ""Coupe""]"
 2019,BMW,M2,"[""Coupe""]"
 2019,BMW,M4,"[""Coupe"", ""Convertible""]"
-2019,BMW,M5,"[""Sedan""]"
+2019,BMW,M5,"[""Sedan""]","[""M550"]"
 2019,BMW,M6,"[""Coupe""]"
 2019,BMW,X1,"[""SUV""]"
 2019,BMW,X2,"[""SUV""]"

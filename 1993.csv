@@ -13,7 +13,7 @@ year,make,model,body_styles,sub_models
 1993,BMW,5 Series,"[""Wagon"", ""Sedan""]"
 1993,BMW,7 Series,"[""Sedan""]"
 1993,BMW,8 Series,"[""Coupe""]"
-1993,BMW,M5,"[""Sedan""]"
+1993,BMW,M5,"[""Sedan""]","[""M550"]"
 1993,Buick,Century,"[""Sedan"", ""Wagon"", ""Coupe""]"
 1993,Buick,LeSabre,"[""Sedan""]"
 1993,Buick,Park Avenue,"[""Sedan""]"

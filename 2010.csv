@@ -30,7 +30,7 @@ year,make,model,body_styles,sub_models
 2010,BMW,6 Series,"[""Coupe"", ""Convertible""]"
 2010,BMW,7 Series,"[""Sedan""]"
 2010,BMW,M3,"[""Coupe"", ""Sedan"", ""Convertible""]"
-2010,BMW,M5,"[""Sedan""]"
+2010,BMW,M5,"[""Sedan""]","[""M550"]"
 2010,BMW,M6,"[""Coupe"", ""Convertible""]"
 2010,BMW,X3,"[""SUV""]"
 2010,BMW,X5,"[""SUV""]"

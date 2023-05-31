@@ -44,7 +44,7 @@ year,make,model,body_styles,sub_models
 2015,BMW,i8,"[""Coupe""]"
 2015,BMW,M3,"[""Sedan""]"
 2015,BMW,M4,"[""Coupe"", ""Convertible""]"
-2015,BMW,M5,"[""Sedan""]"
+2015,BMW,M5,"[""Sedan""]","[""M550"]"
 2015,BMW,M6,"[""Coupe"", ""Convertible""]"
 2015,BMW,X1,"[""SUV""]"
 2015,BMW,X3,"[""SUV""]"

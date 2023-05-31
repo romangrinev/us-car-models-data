@@ -18,7 +18,7 @@ year,make,model,body_styles,sub_models
 2002,BMW,7 Series,"[""Sedan""]"
 2002,BMW,M,"[""Coupe"", ""Convertible""]"
 2002,BMW,M3,"[""Convertible"", ""Coupe""]"
-2002,BMW,M5,"[""Sedan""]"
+2002,BMW,M5,"[""Sedan""]","[""M550"]"
 2002,BMW,X5,"[""SUV""]"
 2002,BMW,Z3,"[""Convertible"", ""Coupe""]"
 2002,BMW,Z8,"[""Convertible""]"

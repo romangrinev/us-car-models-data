@@ -17,7 +17,7 @@ year,make,model,body_styles,sub_models
 2001,BMW,7 Series,"[""Sedan""]"
 2001,BMW,M,"[""Hatchback"", ""Convertible""]"
 2001,BMW,M3,"[""Coupe"", ""Convertible""]"
-2001,BMW,M5,"[""Sedan""]"
+2001,BMW,M5,"[""Sedan""]","[""M550"]"
 2001,BMW,X5,"[""SUV""]"
 2001,BMW,Z3,"[""Convertible"", ""Hatchback""]"
 2001,BMW,Z8,"[""Convertible""]"

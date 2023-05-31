@@ -30,7 +30,7 @@ year,make,model,body_styles,sub_models
 2008,BMW,7 Series,"[""Sedan""]"
 2008,BMW,Alpina B7,"[""Sedan""]"
 2008,BMW,M3,"[""Coupe"", ""Sedan"", ""Convertible""]"
-2008,BMW,M5,"[""Sedan""]"
+2008,BMW,M5,"[""Sedan""]","[""M550"]"
 2008,BMW,M6,"[""Coupe"", ""Convertible""]"
 2008,BMW,X3,"[""SUV""]"
 2008,BMW,X5,"[""SUV""]"

@@ -1,4 +1,4 @@
-year,make,model,body_styles
+year,make,model,body_styles,sub_model
 2008,Acura,MDX,"[""SUV""]"
 2008,Acura,RDX,"[""SUV""]"
 2008,Acura,RL,"[""Sedan""]"
@@ -24,7 +24,7 @@ year,make,model,body_styles
 2008,Bentley,Azure,"[""Convertible""]"
 2008,Bentley,Continental,"[""Sedan"", ""Coupe"", ""Convertible""]"
 2008,BMW,1 Series,"[""Coupe"", ""Convertible""]"
-2008,BMW,3 Series,"[""Sedan"", ""Coupe"", ""Wagon"", ""Convertible""]"
+2008,BMW,3 Series,"[""Sedan"", ""Coupe"", ""Wagon"", ""Convertible""]","[""328i""]"
 2008,BMW,5 Series,"[""Sedan"", ""Wagon""]"
 2008,BMW,6 Series,"[""Convertible"", ""Coupe""]"
 2008,BMW,7 Series,"[""Sedan""]"

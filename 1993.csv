@@ -142,7 +142,7 @@ year,make,model,body_styles,sub_models
 1993,Jeep,Cherokee,"[""SUV""]"
 1993,Jeep,Grand Cherokee,"[""SUV""]"
 1993,Jeep,Wrangler,"[""SUV""]"
-1993,Land Rover,Defender 110,"[""SUV""]"
+1993,Land Rover,Defender,"[""SUV""]","[""110""]"
 1993,Land Rover,Range Rover,"[""SUV""]"
 1993,Lexus,ES,"[""Sedan""]"
 1993,Lexus,GS,"[""Sedan""]"

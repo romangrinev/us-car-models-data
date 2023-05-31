@@ -136,7 +136,7 @@ year,make,model,body_styles,sub_models
 1995,Jeep,Wrangler,"[""SUV""]"
 1995,Kia,Sephia,"[""Sedan""]"
 1995,Kia,Sportage,"[""SUV""]"
-1995,Land Rover,Defender 90,"[""SUV""]"
+1995,Land Rover,Defender,"[""SUV""]","[""90""]"
 1995,Land Rover,Discovery,"[""SUV""]"
 1995,Land Rover,Range Rover,"[""SUV""]"
 1995,Lexus,ES,"[""Sedan""]"

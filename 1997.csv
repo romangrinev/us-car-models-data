@@ -133,7 +133,7 @@ year,make,model,body_styles,sub_models
 1997,Jeep,Wrangler,"[""SUV""]"
 1997,Kia,Sephia,"[""Sedan""]"
 1997,Kia,Sportage,"[""SUV""]"
-1997,Land Rover,Defender 90,"[""SUV""]"
+1997,Land Rover,Defender,"[""SUV""]","[""90""]"
 1997,Land Rover,Discovery,"[""SUV""]"
 1997,Land Rover,Range Rover,"[""SUV""]"
 1997,Lexus,ES,"[""Sedan""]"

@@ -131,7 +131,7 @@ year,make,model,body_styles,sub_models
 1994,Jeep,Grand Cherokee,"[""SUV""]"
 1994,Jeep,Wrangler,"[""SUV""]"
 1994,Kia,Sephia,"[""Sedan""]"
-1994,Land Rover,Defender 90,"[""SUV""]"
+1994,Land Rover,Defender,"[""SUV""]","[""90""]"
 1994,Land Rover,Discovery,"[""SUV""]"
 1994,Land Rover,Range Rover,"[""SUV""]"
 1994,Lexus,ES,"[""Sedan""]"

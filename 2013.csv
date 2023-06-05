@@ -146,7 +146,7 @@ year,make,model,body_styles,sub_models
 2013,INFINITI,EX,"[""SUV""]"
 2013,INFINITI,FX,"[""SUV""]"
 2013,INFINITI,G,"[""Sedan"", ""Coupe"", ""Convertible""]"
-2013,INFINITI,JX,"[""SUV""]"
+2013,INFINITI,JX,"[""SUV""]","[""JX35""]"
 2013,INFINITI,M,"[""Sedan""]"
 2013,INFINITI,QX,"[""SUV""]"
 2013,Jaguar,XF,"[""Sedan""]"

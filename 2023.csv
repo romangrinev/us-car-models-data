@@ -40,7 +40,7 @@ year,make,model,body_styles,sub_models
 2023,BMW,2 Series,"[""Sedan"",""Coupe""]"
 2023,BMW,3 Series,"[""Sedan""]"
 2023,BMW,4 Series,"[""Coupe""]"
-2023,BMW,5 Series,"[""Sedan""]"
+2023,BMW,5 Series,"[""Sedan""]","[""530""]"
 2023,BMW,7 Series,"[""Sedan""]"
 2023,BMW,8 Series,"[""Sedan"",""Coupe"",""Convertible""]"
 2023,BMW,i4,"[""Coupe""]"

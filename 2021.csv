@@ -39,7 +39,7 @@ year,make,model,body_styles,sub_models
 2021,Bentley,Continental,"[""Convertible""]"
 2021,Bentley,Flying Spur,"[""Sedan""]"
 2021,BMW,2 Series,"[""Sedan"",""Coupe"",""Convertible""]"
-2021,BMW,3 Series,"[""Sedan""]"
+2021,BMW,3 Series,"[""Sedan""]","[""330""]"
 2021,BMW,4 Series,"[""Coupe"",""Convertible""]"
 2021,BMW,5 Series,"[""Sedan""]"
 2021,BMW,7 Series,"[""Sedan""]"

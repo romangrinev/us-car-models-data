@@ -44,7 +44,7 @@ year,make,model,body_styles,sub_models
 2011,Cadillac,Escalade EXT,"[""Pickup""]"
 2011,Cadillac,SRX,"[""SUV""]"
 2011,Cadillac,STS,"[""Sedan""]"
-2011,Chevrolet,Avalanche,"[""SUV""]"
+2011,Chevrolet,Avalanche,"[""SUV""]","[""1500""]"
 2011,Chevrolet,Aveo,"[""Hatchback"",""Sedan""]"
 2011,Chevrolet,Camaro,"[""Coupe"",""Convertible""]"
 2011,Chevrolet,Colorado,"[""Pickup""]"

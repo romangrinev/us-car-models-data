@@ -28,7 +28,7 @@ year,make,model,body_styles,sub_models
 2013,BMW,1 Series,"[""Coupe"",""Convertible""]"
 2013,BMW,3 Series,"[""Convertible"",""Sedan"",""Coupe""]"
 2013,BMW,5 Series,"[""Sedan""]"
-2013,BMW,6 Series,"[""Convertible"",""Coupe""]"
+2013,BMW,6 Series,"[""Convertible"",""Coupe""]","[""650"",""650i""]"
 2013,BMW,7 Series,"[""Sedan""]"
 2013,BMW,M3,"[""Coupe"",""Convertible""]"
 2013,BMW,M5,"[""Sedan""]","[""M550""]"

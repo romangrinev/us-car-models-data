@@ -13,7 +13,7 @@ year,make,model,body_styles,sub_models
 2003,Audi,S6,"[""Wagon""]"
 2003,Audi,S8,"[""Sedan""]"
 2003,Audi,TT,"[""Coupe"",""Convertible""]"
-2003,BMW,3 Series,"[""Sedan"",""Convertible"",""Coupe"",""Wagon""]"
+2003,BMW,3 Series,"[""Sedan"",""Convertible"",""Coupe"",""Wagon""]","[""330""]"
 2003,BMW,5 Series,"[""Sedan"",""Wagon""]"
 2003,BMW,7 Series,"[""Sedan""]"
 2003,BMW,M3,"[""Coupe"",""Convertible""]"

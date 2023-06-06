@@ -19,7 +19,7 @@ year,make,model,body_styles,sub_models
 2007,Bentley,Azure,"[""Convertible""]"
 2007,Bentley,Continental,"[""Sedan"",""Coupe"",""Convertible""]"
 2007,BMW,3 Series,"[""Coupe"",""Sedan"",""Convertible"",""Wagon""]"
-2007,BMW,5 Series,"[""Sedan"",""Wagon""]"
+2007,BMW,5 Series,"[""Sedan"",""Wagon""]","[""530"",""530i""]"
 2007,BMW,6 Series,"[""Coupe"",""Convertible""]"
 2007,BMW,7 Series,"[""Sedan""]"
 2007,BMW,Alpina B7,"[""Sedan""]"

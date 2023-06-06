@@ -9,7 +9,7 @@ year,make,model,body_styles,sub_models
 1997,Audi,A6,"[""Wagon"",""Sedan""]"
 1997,Audi,A8,"[""Sedan""]"
 1997,Audi,Cabriolet,"[""Convertible""]"
-1997,BMW,3 Series,"[""Coupe"",""Hatchback"",""Convertible"",""Sedan""]"
+1997,BMW,3 Series,"[""Coupe"",""Hatchback"",""Convertible"",""Sedan""]","[""318""]"
 1997,BMW,5 Series,"[""Sedan""]"
 1997,BMW,7 Series,"[""Sedan""]"
 1997,BMW,8 Series,"[""Coupe""]"

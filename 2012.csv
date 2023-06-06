@@ -26,7 +26,7 @@ year,make,model,body_styles,sub_models
 2012,Bentley,Mulsanne,"[""Sedan""]"
 2012,BMW,1 Series,"[""Convertible"",""Coupe""]"
 2012,BMW,3 Series,"[""Coupe"",""Convertible"",""Wagon"",""Sedan""]"
-2012,BMW,5 Series,"[""Sedan""]"
+2012,BMW,5 Series,"[""Sedan""]","[""550"",""550i""]"
 2012,BMW,6 Series,"[""Convertible"",""Coupe""]"
 2012,BMW,7 Series,"[""Sedan""]"
 2012,BMW,M3,"[""Convertible"",""Coupe""]"

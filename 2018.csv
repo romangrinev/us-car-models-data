@@ -37,7 +37,7 @@ year,make,model,body_styles,sub_models
 2018,Bentley,Flying Spur,"[""Sedan""]"
 2018,Bentley,Mulsanne,"[""Sedan""]"
 2018,BMW,2 Series,"[""Coupe"",""Convertible""]"
-2018,BMW,3 Series,"[""Sedan"",""Wagon""]"
+2018,BMW,3 Series,"[""Sedan"",""Wagon""]","[""320"",""320i"",""330"",""330e""]"
 2018,BMW,4 Series,"[""Coupe"",""Sedan"",""Convertible""]"
 2018,BMW,5 Series,"[""Sedan""]"
 2018,BMW,6 Series,"[""Sedan"",""Convertible""]"

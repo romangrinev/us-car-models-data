@@ -251,7 +251,7 @@ year,make,model,body_styles,sub_models
 2017,Mercedes-Benz,AMG GLE,"[""SUV"",""Coupe""]"
 2017,Mercedes-Benz,AMG GLS,"[""SUV""]"
 2017,Mercedes-Benz,AMG GT,"[""Coupe""]"
-2017,Mercedes-Benz,AMG S-Class,"[""Sedan"",""Coupe"",""Convertible""]"
+2017,Mercedes-Benz,AMG S-Class,"[""Sedan"",""Coupe"",""Convertible""]","[""S""]"
 2017,Mercedes-Benz,AMG SL,"[""Convertible""]"
 2017,Mercedes-Benz,AMG SLC,"[""Convertible""]"
 2017,Mercedes-Benz,Maybach S-Class,"[""Sedan""]"

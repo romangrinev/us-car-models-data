@@ -236,7 +236,7 @@ year,make,model,body_styles,sub_models
 2021,Mercedes-Benz,AMG CLA,"[""Sedan""]"
 2021,Mercedes-Benz,AMG CLS,"[""Sedan""]"
 2021,Mercedes-Benz,AMG E-Class,"[""Wagon"",""Convertible"",""Sedan"",""Coupe""]"
-2021,Mercedes-Benz,AMG G,"[""SUV""]"
+2021,Mercedes-Benz,AMG G-Class,"[""SUV""]","[""G""]"
 2021,Mercedes-Benz,AMG GLA,"[""SUV""]"
 2021,Mercedes-Benz,AMG GLB,"[""SUV""]"
 2021,Mercedes-Benz,AMG GLC,"[""SUV"",""Coupe""]"

@@ -245,7 +245,7 @@ year,make,model,body_styles,sub_models
 2017,Mercedes-Benz,AMG CLA,"[""Sedan""]"
 2017,Mercedes-Benz,AMG CLS,"[""Sedan""]"
 2017,Mercedes-Benz,AMG E-Class,"[""Sedan""]"
-2017,Mercedes-Benz,AMG G,"[""SUV""]"
+2017,Mercedes-Benz,AMG G-Class,"[""SUV""]","[""G""]"
 2017,Mercedes-Benz,AMG GLA,"[""SUV""]"
 2017,Mercedes-Benz,AMG GLC,"[""SUV"",""Coupe""]"
 2017,Mercedes-Benz,AMG GLE,"[""SUV"",""Coupe""]"

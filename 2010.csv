@@ -139,7 +139,7 @@ year,make,model,body_styles,sub_models
 2010,Hyundai,Veracruz,"[""SUV""]"
 2010,INFINITI,EX,"[""SUV""]"
 2010,INFINITI,FX,"[""SUV""]"
-2010,INFINITI,G,"[""Coupe"",""Sedan"",""Convertible""]"
+2010,INFINITI,G,"[""Coupe"",""Sedan"",""Convertible""]","[""G37""]"
 2010,INFINITI,M,"[""Sedan""]"
 2010,INFINITI,QX,"[""SUV""]"
 2010,Jaguar,XF,"[""Sedan""]"

@@ -133,7 +133,7 @@ year,make,model,body_styles,sub_models
 2012,Hyundai,Veracruz,"[""SUV""]"
 2012,INFINITI,EX,"[""SUV""]"
 2012,INFINITI,FX,"[""SUV""]"
-2012,INFINITI,G,"[""Coupe"",""Convertible"",""Sedan""]"
+2012,INFINITI,G,"[""Coupe"",""Convertible"",""Sedan""]","[""G37x"",""G37"]"
 2012,INFINITI,M,"[""Sedan""]"
 2012,INFINITI,QX,"[""SUV""]"
 2012,Jaguar,XF,"[""Sedan""]"

@@ -135,7 +135,7 @@ year,make,model,body_styles,sub_models
 2006,Hyundai,Tucson,"[""SUV""]"
 2006,INFINITI,FX,"[""SUV""]"
 2006,INFINITI,G,"[""Coupe"",""Sedan""]"
-2006,INFINITI,M,"[""Sedan""]"
+2006,INFINITI,M,"[""Sedan""]","[""M35x""]"
 2006,INFINITI,Q,"[""Sedan""]"
 2006,INFINITI,QX,"[""SUV""]"
 2006,Isuzu,Ascender,"[""SUV""]"

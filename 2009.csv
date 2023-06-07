@@ -194,7 +194,7 @@ year,make,model,body_styles,sub_models
 2009,MAZDA,B-Series,"[""Pickup""]"
 2009,MAZDA,CX-7,"[""SUV""]"
 2009,MAZDA,CX-9,"[""SUV""]"
-2009,MAZDA,MAZDA3,"[""Sedan"",""Hatchback""]"
+2009,MAZDA,MAZDA3,"[""Sedan"",""Hatchback""]","[""MazdaSpeed3""]"
 2009,MAZDA,MAZDA5,"[""Van/Minivan""]"
 2009,MAZDA,MAZDA6,"[""Sedan""]"
 2009,MAZDA,MX-5 Miata,"[""Convertible""]"

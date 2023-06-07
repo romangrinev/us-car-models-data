@@ -254,7 +254,7 @@ year,make,model,body_styles,sub_models
 2021,MINI,Clubman,"[""Hatchback""]"
 2021,MINI,Convertible,"[""Convertible""]"
 2021,MINI,Countryman,"[""SUV""]"
-2021,MINI,Hardtop,"[""Hatchback""]"
+2021,MINI,Hardtop,"[""Hatchback""]","[""Cooper""]"
 2021,Mitsubishi,Mirage,"[""Hatchback""]"
 2021,Mitsubishi,Mirage G4,"[""Sedan""]"
 2021,Mitsubishi,Outlander,"[""SUV""]"

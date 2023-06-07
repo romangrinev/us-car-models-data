@@ -1,4 +1,5 @@
 year,make,model,body_styles,sub_models
+2024,Acura,Integra,"[""Hatchback""]"
 2024,Acura,MDX,"[""SUV""]"
 2024,Audi,Q8,"[""SUV""]"
 2024,BMW,8 Series,"[""Coupe""]","[""840""]"
@@ -11,6 +12,7 @@ year,make,model,body_styles,sub_models
 2024,Chevrolet,Equinox,"[""SUV""]"
 2024,Chevrolet,Silverado 2500,"[""Pickup""]"
 2024,Chevrolet,Silverado 3500,"[""Pickup""]"
+2024,Chevrolet,Trax,"[""SUV""]"
 2024,Ford,Mustang,"[""Coupe""]"
 2024,GMC,Hummer,"[""SUV""]"
 2024,GMC,Sierra 2500,"[""Pickup""]"
@@ -21,6 +23,7 @@ year,make,model,body_styles,sub_models
 2024,Jeep,Recon,"[""SUV""]"
 2024,MINI,Clubman,"[""Hatchback"",""Wagon""]"
 2024,MINI,Countryman,"[""SUV""]"
+2024,MINI,Clubman,"[""Hatchback""]"
 2024,MINI,Hardtop,"[""Hatchback""]","[""SE"",""Cooper""]"
 2024,MINI,Convertible,"[""Convertible""]"
 2024,Kia,EV9,"[""SUV""]"

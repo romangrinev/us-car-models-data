@@ -138,7 +138,7 @@ year,make,model,body_styles,sub_models
 2005,Hyundai,Tiburon,"[""Coupe""]"
 2005,Hyundai,Tucson,"[""SUV""]"
 2005,Hyundai,XG350,"[""Sedan""]"
-2005,INFINITI,FX,"[""SUV""]"
+2005,INFINITI,FX,"[""SUV""]","[""FX35""]"
 2005,INFINITI,G,"[""Coupe"",""Sedan""]"
 2005,INFINITI,Q,"[""Sedan""]"
 2005,INFINITI,QX,"[""SUV""]"

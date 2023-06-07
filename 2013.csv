@@ -73,7 +73,7 @@ year,make,model,body_styles,sub_models
 2013,Chevrolet,Traverse,"[""SUV""]"
 2013,Chevrolet,Volt,"[""Sedan""]"
 2013,Chrysler,200,"[""Sedan"",""Convertible""]"
-2013,Chrysler,300,"[""Sedan""]"
+2013,Chrysler,300,"[""Sedan""]","[""300C""]"
 2013,Chrysler,Town & Country,"[""Van/Minivan""]"
 2013,Dodge,Avenger,"[""Sedan""]"
 2013,Dodge,Challenger,"[""Coupe""]"

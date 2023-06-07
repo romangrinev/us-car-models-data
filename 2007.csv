@@ -139,7 +139,7 @@ year,make,model,body_styles,sub_models
 2007,Hyundai,Veracruz,"[""SUV""]"
 2007,INFINITI,FX,"[""SUV""]"
 2007,INFINITI,G,"[""Sedan"",""Coupe""]"
-2007,INFINITI,M,"[""Sedan""]"
+2007,INFINITI,M,"[""Sedan""]","[""M35""]"
 2007,INFINITI,QX,"[""SUV""]"
 2007,Isuzu,Ascender,"[""SUV""]"
 2007,Isuzu,i-290,"[""Pickup""]"

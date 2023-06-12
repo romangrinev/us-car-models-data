@@ -39,7 +39,7 @@ year,make,model,body_styles,sub_models
 2018,BMW,2 Series,"[""Coupe"",""Convertible""]"
 2018,BMW,3 Series,"[""Sedan"",""Wagon""]","[""320"",""320i"",""330"",""330e"",""328d"]"
 2018,BMW,4 Series,"[""Coupe"",""Sedan"",""Convertible""]"
-2018,BMW,5 Series,"[""Sedan""]"
+2018,BMW,5 Series,"[""Sedan""]","[""535d""]"
 2018,BMW,6 Series,"[""Sedan"",""Convertible""]"
 2018,BMW,7 Series,"[""Sedan""]"
 2018,BMW,i3,"[""Hatchback""]"

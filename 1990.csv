@@ -1,3 +1,6 @@
 year,make,model,body_styles,sub_models
 1990,Chevrolet,Silverado,"[""Pickup""]","[""1500"",""2500"",""3500""]"
+1990,Ford,F-150,"[""Pickup""]"
+1990,Ford,F-250,"[""Pickup""]"
+1990,Ford,F-350,"[""Pickup""]"
 1990,Mercedes-Benz,500 SL,"[""Convertible""]","[""500SL""]"

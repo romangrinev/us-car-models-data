@@ -119,7 +119,7 @@ year,make,model,body_styles,sub_models
 2003,INFINITI,I,"[""Sedan""]"
 2003,INFINITI,M,"[""Sedan""]"
 2003,INFINITI,Q,"[""Sedan""]"
-2003,INFINITI,QX,"[""SUV""]"
+2003,INFINITI,QX,"[""SUV""]","[""QX4""]"
 2003,Isuzu,Ascender,"[""SUV""]"
 2003,Isuzu,Axiom,"[""SUV""]"
 2003,Isuzu,Rodeo,"[""SUV""]"

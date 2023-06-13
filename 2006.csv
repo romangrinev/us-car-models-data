@@ -75,7 +75,7 @@ year,make,model,body_styles,sub_models
 2006,Dodge,Sprinter 3500,"[""Van/Minivan""]"
 2006,Dodge,Stratus,"[""Sedan""]"
 2006,Dodge,Viper,"[""Coupe"",""Convertible""]"
-2006,Ferrari,612 Scaglietti,"[""Coupe""]"
+2006,Ferrari,612,"[""Coupe""]"
 2006,Ferrari,F430,"[""Convertible"",""Coupe""]"
 2006,Ford,Crown Victoria,"[""Sedan""]"
 2006,Ford,Econoline,"[""Van/Minivan""]","[""E150"",""E250"",""E350""]"

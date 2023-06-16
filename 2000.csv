@@ -111,7 +111,7 @@ year,make,model,body_styles,sub_models
 2000,Hyundai,Elantra,"[""Wagon"",""Sedan""]"
 2000,Hyundai,Sonata,"[""Sedan""]"
 2000,Hyundai,Tiburon,"[""Hatchback""]"
-2000,INFINITI,G,"[""Sedan""]"
+2000,INFINITI,G,"[""Sedan""]","[""G20""]"
 2000,INFINITI,I,"[""Sedan""]"
 2000,INFINITI,Q,"[""Sedan""]"
 2000,INFINITI,QX,"[""SUV""]"

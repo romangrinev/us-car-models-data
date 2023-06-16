@@ -166,7 +166,7 @@ year,make,model,body_styles,sub_models
 1998,Oldsmobile,Achieva,"[""Sedan""]"
 1998,Oldsmobile,Aurora,"[""Sedan""]"
 1998,Oldsmobile,Bravada,"[""SUV""]"
-1998,Oldsmobile,Cutlass,"[""Sedan""]"
+1998,Oldsmobile,Cutlass,"[""Sedan"",""Wagon"",""Convertible"",""Coupe""]"
 1998,Oldsmobile,Intrigue,"[""Sedan""]"
 1998,Oldsmobile,LSS,"[""Sedan""]"
 1998,Oldsmobile,Regency,"[""Sedan""]"

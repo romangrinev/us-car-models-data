@@ -98,6 +98,7 @@ year,make,model,body_styles,sub_models
 2020,Ford,Fusion,"[""Sedan""]"
 2020,Ford,Mustang,"[""Coupe"",""Convertible""]","[""Shelby"",""GT500""]"
 2020,Ford,Ranger,"[""Pickup""]"
+2020,Ford,Transit 150,"[""Van/Minivan""]"
 2020,Ford,Transit 250,"[""Van/Minivan""]"
 2020,Ford,Transit 350,"[""Van/Minivan""]"
 2020,Ford,Transit Connect,"[""Van/Minivan""]"

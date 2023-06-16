@@ -31,7 +31,7 @@ year,make,model,body_styles,sub_models
 2014,Bentley,Flying Spur,"[""Sedan""]"
 2014,Bentley,Mulsanne,"[""Sedan""]"
 2014,BMW,2 Series,"[""Coupe""]"
-2014,BMW,3 Series,"[""Wagon"",""Sedan""]"
+2014,BMW,3 Series,"[""Wagon"",""Sedan""]","[""328d""]"
 2014,BMW,4 Series,"[""Coupe"",""Convertible""]"
 2014,BMW,5 Series,"[""Sedan""]"
 2014,BMW,6 Series,"[""Coupe"",""Convertible""]"

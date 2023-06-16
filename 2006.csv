@@ -145,7 +145,7 @@ year,make,model,body_styles,sub_models
 2006,Kia,Rio,"[""Sedan"",""Hatchback""]"
 2006,Kia,Sedona,"[""Van/Minivan""]"
 2006,Kia,Sorento,"[""SUV""]"
-2006,Kia,Spectra,"[""Sedan"",""Hatchback""]"
+2006,Kia,Spectra,"[""Sedan"",""Hatchback""]","[""Spectra5""]"
 2006,Kia,Sportage,"[""SUV""]"
 2006,Lamborghini,Gallardo,"[""Coupe"",""Convertible""]"
 2006,Lamborghini,Murcielago,"[""Convertible"",""Coupe""]"

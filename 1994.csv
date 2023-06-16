@@ -146,7 +146,7 @@ year,make,model,body_styles,sub_models
 1994,Mercedes-Benz,C-Class,"[""Sedan""]"
 1994,Mercedes-Benz,E-Class,"[""Coupe"",""Convertible"",""Wagon"",""Sedan""]"
 1994,Mercedes-Benz,S-Class,"[""Sedan"",""Coupe""]"
-1994,Mercedes-Benz,SL-Class,"[""Convertible""]"
+1994,Mercedes-Benz,SL,"[""Convertible""]"
 1994,Mercury,Capri,"[""Convertible""]"
 1994,Mercury,Cougar,"[""Coupe""]"
 1994,Mercury,Grand Marquis,"[""Sedan""]"

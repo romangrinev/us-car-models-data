@@ -15,7 +15,7 @@ year,make,model,body_styles,sub_models
 2006,Audi,TT,"[""Coupe"",""Convertible""]"
 2006,Bentley,Arnage,"[""Sedan""]"
 2006,Bentley,Continental,"[""Sedan"",""Coupe""]"
-2006,BMW,3 Series,"[""Coupe"",""Sedan"",""Convertible"",""Wagon""]"
+2006,BMW,3 Series,"[""Coupe"",""Sedan"",""Convertible"",""Wagon""]","[""325""]"
 2006,BMW,5 Series,"[""Sedan"",""Wagon""]"
 2006,BMW,6 Series,"[""Coupe"",""Convertible""]"
 2006,BMW,7 Series,"[""Sedan""]"

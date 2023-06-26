@@ -29,7 +29,7 @@ year,make,model,body_styles,sub_models
 2017,Audi,S7,"[""Sedan""]"
 2017,Audi,S8,"[""Sedan""]"
 2017,Audi,SQ5,"[""SUV""]"
-2017,Audi,TT,"[""Coupe"",""Convertible""]"
+2017,Audi,TT,"[""Coupe"",""Convertible""]","[""TTS""]"
 2017,Bentley,Bentayga,"[""SUV""]"
 2017,Bentley,Continental,"[""Convertible"",""Coupe""]"
 2017,Bentley,Flying Spur,"[""Sedan""]"
